@@ -1,0 +1,35 @@
+.page1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+.page2{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(236, 240, 22);
+}
+.head1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu{
+    height: 150px;
+    width: 200px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.menuhead{
+    color: rgb(238, 20, 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
